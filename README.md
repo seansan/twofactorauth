@@ -8,6 +8,9 @@ TwoFactorAuth.org
 
 A list of popular sites and whether or not they accept two factor auth.
 
+Used by [![Herenkleding Heerenzaak](https://heerenzaak.nl)]
+Used by [![Heren overhemden](https://overhemden.com)]
+
 ## The Goal
 
 The goal of this project is to build a website ([TwoFactorAuth.org](https://twofactorauth.org)) with a list of popular sites that support
