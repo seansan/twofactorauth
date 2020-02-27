@@ -8,8 +8,8 @@ TwoFactorAuth.org
 
 A list of popular sites and whether or not they accept two factor auth.
 
-Used by [![Herenkleding Heerenzaak](https://heerenzaak.nl)]
-Used by [![Heren overhemden](https://overhemden.com)]
+Used by [Herenkleding Heerenzaak](https://heerenzaak.nl)
+Used by [Heren overhemden](https://overhemden.com)
 
 ## The Goal
 
